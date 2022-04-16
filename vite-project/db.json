@@ -1,0 +1,13 @@
+{
+    "contries":[],
+    "cities":[
+     {
+         "id":1,
+         "country":"India",
+         "city":"Delhi",
+         "population":19000000,
+         "edit":"Edit",
+         "delete":"Delete"
+     }   
+    ]
+}
